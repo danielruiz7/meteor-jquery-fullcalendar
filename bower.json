@@ -1,0 +1,19 @@
+{
+  "name": "meteor-jquery-fullcalendar",
+  "version": "0.0.0",
+  "homepage": "https://github.com/planet-training/meteor-jquery-fullcalendar",
+  "authors": [
+    "Dominic Garms <djgarms@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "fullcalendar": "~2.3.1"
+  }
+}
