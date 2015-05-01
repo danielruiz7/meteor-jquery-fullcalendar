@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Arshaw FullCalendar jquery plugin original files.",
   name: "planettraining:jquery-fullcalendar",
-  version: "2.3.1_1",
+  version: "2.3.1_2",
   git:"https://github.com/planet-training/meteor-jquery-fullcalendar.git"
 });
 
@@ -15,6 +15,7 @@ Package.onUse(function (api) {
   api.addFiles([
     'bower_components/fullcalendar/dist/fullcalendar.js',
     'bower_components/fullcalendar/dist/fullcalendar.css',
-    'bower_components/fullcalendar/dist/fullcalendar.print.css'
+    //'bower_components/fullcalendar/dist/fullcalendar.print.css',
+    'bower_components/fullcalendar/dist/gcal.js'
   ], "client");
 });
