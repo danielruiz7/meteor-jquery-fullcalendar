@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Arshaw FullCalendar jquery plugin original files.",
   name: "planettraining:jquery-fullcalendar",
-  version: "2.3.2",
+  version: "2.4.0",
   git:"https://github.com/planet-training/meteor-jquery-fullcalendar.git"
 });
 
