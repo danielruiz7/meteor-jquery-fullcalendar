@@ -1,5 +1,5 @@
-jquery@1.11.3_2
-meteor@1.1.6
+jquery@1.11.4
+meteor@1.1.10
 momentjs:moment@2.8.4
-planettraining:jquery-fullcalendar@2.3.2
-underscore@1.0.3
+planettraining:jquery-fullcalendar@2.5.0
+underscore@1.0.4
