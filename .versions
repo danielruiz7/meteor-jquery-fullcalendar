@@ -1,5 +1,10 @@
 jquery@1.11.4
 meteor@1.1.10
 momentjs:moment@2.8.4
+<<<<<<< HEAD
 planettraining:jquery-fullcalendar@2.5.0
 underscore@1.0.4
+=======
+planettraining:jquery-fullcalendar@2.4.0
+underscore@1.0.3
+>>>>>>> 169fef2b00f1a63e6da1687086f8487fb6764443
