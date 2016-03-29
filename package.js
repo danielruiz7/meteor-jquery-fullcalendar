@@ -15,6 +15,7 @@ Package.onUse(function (api) {
   api.addFiles([
     'bower_components/fullcalendar/dist/fullcalendar.js',
     'bower_components/fullcalendar/dist/fullcalendar.css',
+    'bower_components/fullcalendar/dist/lang/es.js',
     //'bower_components/fullcalendar/dist/fullcalendar.print.css',
     'bower_components/fullcalendar/dist/gcal.js'
   ], "client");
